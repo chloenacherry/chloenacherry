@@ -1,5 +1,5 @@
 # 안녕하세요❗ 제 이름은 신채린 입니다😊
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text='! 안녕하세요 !'&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=ssafy&fontSize=90" />
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&reversal=true&height=300&section=header&text=capsule%20render&desc=안녕하세요 반갑습니다.&textBg=true&fontSize=90&fontColor=ffee00&animation=fadeIn" />
 
 ![이미지](https://github.com/chloenacherry/chloenacherry/blob/master/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.jpg)
