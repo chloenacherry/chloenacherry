@@ -1,6 +1,6 @@
-<p align="center">
+
 # 안녕하세요❗ 제 이름은 신채린 입니다😊
-</p>
+
 
 
 ![이미지](https://github.com/chloenacherry/chloenacherry/blob/master/%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94.jpg)
