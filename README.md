@@ -1,4 +1,5 @@
 # 안녕하세요❗ 제 이름은 신채린 입니다😊
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 <img 
 src="https://capsule-render.vercel.app/api? //이 물음표 뒤에 붙는 인자들을 바꿔주면 된다.
 type=wave	//헤더의 모양이다.
